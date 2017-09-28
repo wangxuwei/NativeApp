@@ -1,0 +1,10 @@
+# Ignore mac info files
+.DS_Store
+
+# ignore node things
+node_modules/
+npm-debug.log
+# rollup typescript error
+.rpt2_cache/
+
+platforms/
